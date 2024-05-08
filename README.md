@@ -1,8 +1,18 @@
-# React + Vite
+# HTML CSS JS Code Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This open-source web-based code editor focuses on HTML, CSS, and JavaScript development. With live preview feature, it provides a streamlined environment for writing, editing, and testing code directly in the browser. Perfect for front-end developers and learners alike.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Live preview for real-time results
+- Responsive design for cross-device compatibility
+
+## How to Use
+
+To get started with the Code Editor, simply clone the repository to your local machine and open the `index.html` file in your preferred web browser. You can also deploy the code editor to a web server for online access.
+
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT), allowing for free and open-source use, modification, and distribution.
